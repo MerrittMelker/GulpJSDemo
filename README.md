@@ -7,3 +7,4 @@ gulp scripts
 ```
 
 to generate a minimized javascript file: **/js/min/main.min.js**
+
